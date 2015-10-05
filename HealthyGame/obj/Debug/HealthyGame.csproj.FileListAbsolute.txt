@@ -1,0 +1,10 @@
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\bin\Debug\HealthyGame.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\bin\Debug\HealthyGame.exe
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\bin\Debug\HealthyGame.pdb
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\obj\Debug\HealthyGame.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\obj\Debug\HealthyGame.Form1.resources
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\obj\Debug\HealthyGame.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\obj\Debug\HealthyGame.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\obj\Debug\HealthyGame.exe
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\obj\Debug\HealthyGame.pdb
+c:\users\anton\documents\visual studio 2013\Projects\HealthyGame\HealthyGame\obj\Debug\HealthyGame.Splash.resources
