@@ -1,5 +1,6 @@
-# healthy_game
-Windows game.
+# Healthy game
+
+Simple application that for practising C# and Windows Forms.
 
 The aim of that game is to arrange the goods by the simple criteria 
 if they are HEALTHY or UNHEALTHY. You will see different types of
@@ -9,9 +10,8 @@ sorted item brings you 1 point, and every mistake costs you 1 point.
 
 To move the item you need to drag and drop it into the appropriate basket using the mouse.
 
-#Screenshots
+<h2 id="schreeshots">Screenshots</h2>
 
-
-![lkjhgfd](https://cloud.githubusercontent.com/assets/14311259/10363231/4b877328-6dab-11e5-9eac-af9acd4531b3.png)
-![oiuytr](https://cloud.githubusercontent.com/assets/14311259/10363233/4b9c0658-6dab-11e5-8066-14624b04f29b.png)
+![alt tag](https://cloud.githubusercontent.com/assets/14311259/10363231/4b877328-6dab-11e5-9eac-af9acd4531b3.png)
+![alt tag](https://cloud.githubusercontent.com/assets/14311259/10363233/4b9c0658-6dab-11e5-8066-14624b04f29b.png)
 
